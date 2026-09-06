@@ -2,7 +2,7 @@
 * [x] The learning management system (courseplus or canvas)  
 * [ ] Email  
 * [ ] Slack  
-* [ x ] Teams  
+* [x] Teams  
 * [ ] SIS  
 * [x] Online office hours over Teams  
 
